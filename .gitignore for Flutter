@@ -1,0 +1,25 @@
+# Flutter/Dart
+.buildlog/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies.lock
+.flutter-plugins-dependencies.lock-candidate
+.idea/
+.vscode/
+build/
+ios/.symlinks/
+android/.gradle/
+android/.idea/
+android/app/build/
+android/build/
+
+# Generated files
+flutter_*.png
+
+# macOS
+macos/Flutter/Generated.xcconfig
+macos/Pods/
